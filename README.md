@@ -12,6 +12,11 @@ You shouldn't be very concerned with getting the "right" answer as fast as possi
 
 Object Oriented Programming is one of the most fundamental skills as a programmer, and you'll want to get really good at it. These exercises will help you get there. 
 
+You have a choice this week. You must do the yodel challenge. You can choose to do the trees challenge or the batman_vs_superman challenge. Trees is going to be easy, the superhero challenge is going to push you a little more.
+
+You have the tools to do both, but don't push yourself if you are uncomfortable with the harder exercise.
+
+
 ## Usage
 
 Each problem has driver code at the bottom so you can test your solution by running the code in Sublime (Command + B). Alternatively, you can run each file from the terminal as well.
