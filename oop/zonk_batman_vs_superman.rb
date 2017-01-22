@@ -8,7 +8,7 @@
     # and has_special_tool (boolean, we want to describe if they have a special_tool start automatically to false, readable)
     # -- you decide if they have to be readable/writable attributes
 # Notice attributes are set as a single hash
-# For this class Superheros objects will interact with other Superhero objects by passing them into the method arguements. (check Driver code)
+# For this class Superheros objects will interact with other Superhero objects by passing them into the method arguments. (check Driver code)
 # Superheros can hit, so they need a hit method that takes away hit points from another Superhero object, by the number of attack they have. (again check the driver code)
 # if a Superhero has a special_tool their attack is tripled
 # if a Superhero is attacked and their hitpoints are less than 1, they are no longer alive
